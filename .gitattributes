@@ -1,0 +1,9 @@
+angryGPT/utterances.jsonl filter=lfs diff=lfs merge=lfs -text
+salary-prediction-app/survey_results_public.csv filter=lfs diff=lfs merge=lfs -text
+nn-binary-multiclass/X_test.npy filter=lfs diff=lfs merge=lfs -text
+nn-binary-multiclass/X_train.npy filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.jsonl filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
